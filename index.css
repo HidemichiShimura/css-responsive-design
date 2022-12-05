@@ -1,0 +1,88 @@
+body {
+    background-color: #212121;
+    color: white;
+}
+
+body p {
+    font-size: 13px;
+}
+
+header {
+    text-align: center;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+header li {
+    padding: 5px 0px;
+}
+
+#home {
+    background-color: #353535;
+    color: orange;
+}
+
+.div1, .div2{
+    text-align: center;
+}
+
+.div1 {
+    background-image: url("assets/camp.jpg");
+    background-size: cover;
+    padding: 30px 0px;
+}
+
+.heading1 {
+    margin: 0px 0px;
+}
+
+.fontcolor-orange {
+    color: orange;
+}
+
+#joinus-btn {
+    color: white;
+    background-color: #212121;
+}
+
+button {
+    padding: 8px;
+    border: none;
+}
+
+#readmore-btn {
+    color: #212121;
+    background-color: white;
+}
+
+.div2 {
+    padding: 10px 0px 100px 0px;
+}
+
+section {
+    text-align: center;
+    padding: 30px 0px;
+}
+
+section p {
+    margin: 0px 0px;
+}
+
+#location-section, #renttent-section, #campfire-section {
+    text-align: center;
+    color: #212121;
+    background-color: white;
+}
+
+#renttent-section {
+    background-color: orange;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0px;
+}
